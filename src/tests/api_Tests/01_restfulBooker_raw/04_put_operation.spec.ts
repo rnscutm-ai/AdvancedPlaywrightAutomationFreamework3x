@@ -18,9 +18,9 @@ test.describe('Restful Booker booking API', () => {
         };
 
         const payload = {
-            firstname: 'Pramod',
-            lastname: 'Dutta',
-            totalprice: 111,
+            firstname: 'Rabindra',
+            lastname: 'Sahu',
+            totalprice: 112,
             depositpaid: true,
             bookingdates: {
                 checkin: '2018-01-01',
